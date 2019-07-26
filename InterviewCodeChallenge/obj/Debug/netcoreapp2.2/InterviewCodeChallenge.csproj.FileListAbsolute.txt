@@ -1,0 +1,14 @@
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\bin\Debug\netcoreapp2.2\InterviewCodeChallenge.deps.json
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\bin\Debug\netcoreapp2.2\InterviewCodeChallenge.runtimeconfig.json
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\bin\Debug\netcoreapp2.2\InterviewCodeChallenge.runtimeconfig.dev.json
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\bin\Debug\netcoreapp2.2\InterviewCodeChallenge.dll
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\bin\Debug\netcoreapp2.2\InterviewCodeChallenge.pdb
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\obj\Debug\netcoreapp2.2\InterviewCodeChallenge.csprojAssemblyReference.cache
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\obj\Debug\netcoreapp2.2\InterviewCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\obj\Debug\netcoreapp2.2\InterviewCodeChallenge.RazorAssemblyInfo.cache
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\obj\Debug\netcoreapp2.2\InterviewCodeChallenge.RazorAssemblyInfo.cs
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\obj\Debug\netcoreapp2.2\InterviewCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\obj\Debug\netcoreapp2.2\InterviewCodeChallenge.AssemblyInfo.cs
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\obj\Debug\netcoreapp2.2\InterviewCodeChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\obj\Debug\netcoreapp2.2\InterviewCodeChallenge.dll
+C:\Users\Major Tom\source\repos\InterviewCodeChallenge\InterviewCodeChallenge\obj\Debug\netcoreapp2.2\InterviewCodeChallenge.pdb
